@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   spec.name         = "LDOptionButton"
   spec.version      = "0.1.0"
-  spec.summary      = "Clean and beautiful menu option button written in Swift."
+  spec.summary      = "Clean and beautiful menu option button."
 
   # This description is used to generate tags and improve search results.
   spec.description  = "Clean and beautiful menu option button written in Swift."
